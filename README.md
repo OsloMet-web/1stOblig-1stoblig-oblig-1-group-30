@@ -1,1 +1,10 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11753899&assignment_repo_type=AssignmentRepo)
+# 1stOblig-oblig-1-group-30
+Oblig-1-for-group-30
+The purpose of this repository is to create the first obligatory assignment for the class Data 1200. 
+We should create webpage A with some text and at least two headings. 
+We should create a second page B as well. In page B every student in the group enters their own student number 
+as a heading and a few lines about their old school in a paragraph.
+In the log "Commits" on GitHub every student in the group should participate as collaborator.
+In each page we must include a link from Page A to Page B, and vice versa.
+We should submit GitHub link as our assignment hand-in. 
+Deadline is 7 September 23:59.
